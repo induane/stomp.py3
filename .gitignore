@@ -1,0 +1,10 @@
+.coverage
+coverage.xml
+docs/build/
+pep8.out
+test_results.xml
+.env
+.env_python2.7
+.env_python2.6
+*.pyc
+*.pyo
